@@ -68,8 +68,22 @@ I'm Saykot Biswas Shawon from Bangladesh 🇧🇩<br><br>
 
 <h3 align="left">🔥 My Stats</h3>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sokoo69&theme=dark" height="220" />
-</div>
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sokoo69&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sokoo69&theme=default_repocard&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sokoo69&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+##  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sokoo69&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+
+
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sokoo69&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sokoo69&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
