@@ -1,59 +1,62 @@
-<h2 align="left">Hi 👋! My name is Saykot Biswas Shawon and I'm a web developer, from Bangladesh</h2>
+<h1 align="center">Hey 👋 I'm Saykot</h1>
+<h3 align="center">Full-Stack Web Developer | Digital Marketer</h3>
+
+###
+
+<p align="center">
+I build modern, scalable web applications and help brands grow through SEO & social media.  
+Currently focused on full-stack development with React & Node.js.
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sokoo69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sokoo69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+<div align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+  </a>
 </div>
 
 ###
 
-## 💫 About Me
-
-Hi, I’m Saykot Biswas Shawon.  
-I’m a web developer who likes building clean, simple, and practical web apps.
-
-I mostly work with HTML, CSS, JavaScript, and React, and I’m learning backend development using Node.js and Express. I prefer learning by doing — building projects, fixing bugs, and improving step by step.
-
-This GitHub profile is where I keep my practice work and real projects as I grow as a developer.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sokoo69&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=sokoo69&theme=dracula&row=1&column=6" height="150" />
+</div>
 
 ###
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sokoo_69)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saykot-biswas-shawon)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saykot.dev@gmail.com)
-
-###
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sokoo69&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sokoo69&theme=default_repocard&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sokoo69&theme=default_repocard&hide_border=false&layout=compact)
-
----
-
-🔗 **Portfolio:** https://www.saykot.dev  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sokoo69/sokoo69/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sokoo69/sokoo69/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sokoo69/sokoo69/output/pacman-contribution-graph.svg">
+</picture>
