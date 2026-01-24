@@ -31,9 +31,9 @@
 
 <p align="left">
 I'm Saykot Biswas Shawon from Bangladesh 🇧🇩<br><br>
-- 🔭 I’m working on full-stack web development & digital marketing projects<br>
+- 🔭 I’m working on full-stack web development<br>
 - 📚 I’m currently learning advanced React, Node.js & backend system design<br>
-- ⚡ In my free time I build side projects, explore SEO strategies, and learn new tech
+- ⚡ In my free time I build side projects and learn new tech
 </p>
 
 ###
