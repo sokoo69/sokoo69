@@ -23,9 +23,9 @@ I'm a **Full-Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, passionate a
 - 🔭 Currently working as a **Full-Stack Developer on Fiverr** (2+ years)
 - 🌱 Exploring **Next.js App Router, DevOps & System Design**
 - 🛠️ Building scalable **SaaS platforms & web applications**
-- 🎓 Pursuing **BSc in Computer Science** @ University of Liberal Arts Bangladesh
+- 🎓 Pursuing **BSc in Computer Science** @ **University of Liberal Arts Bangladesh**
 - 💡 Passionate about **clean architecture, performance optimization & long-term scalability**
-- 📬 Reach me at: **shawon.saykot2023@gmail.com**
+- 📬 Reach me at: **contact@saykot.dev**
 - 📍 Based in: **Dhaka, Bangladesh**
 
 ---
@@ -111,13 +111,13 @@ I'm a **Full-Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, passionate a
 <a href="https://github.com/sokoo69">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/saykotbiswas-shawon">
+<a href="https://www.linkedin.com/in/saykot-biswas-shawon">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://saykot.dev">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
-<a href="mailto:shawon.saykot2023@gmail.com">
+<a href="mailto:contact@saykot.dev">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
