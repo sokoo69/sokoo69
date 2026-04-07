@@ -7,7 +7,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sokoo69&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/sokoo69)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saykot.dev-7c3aed?style=flat-square&logo=firefox&logoColor=white)](https://saykot.dev)
-[![Email](https://img.shields.io/badge/Email-shawon.saykot2023%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shawon.saykot2023@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%40saykot.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@saykot.dev)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-green?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dhaka,Bangladesh)
 
 </div>
