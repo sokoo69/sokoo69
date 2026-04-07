@@ -59,24 +59,7 @@ I'm a **Full-Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, passionate a
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sokoo69&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7"/>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sokoo69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokoo69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
