@@ -79,9 +79,7 @@ I'm a **Full-Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, passionate a
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
+<img src="https://github.com/sokoo69/sokoo69/raw/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
