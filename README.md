@@ -74,13 +74,6 @@ I'm a **Full-Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, passionate a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sokoo69&theme=react-dark&hide_border=true&area=true"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://github.com/sokoo69/sokoo69/raw/output/github-contribution-grid-snake-dark.svg"/>
-</div>
 
 ---
 
