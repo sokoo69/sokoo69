@@ -63,7 +63,7 @@ I'm a **Full-Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, passionate a
 ## 🔥 GitHub Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=sokoo69&theme=tokyonight&hide_border=true&fire=DD2727&ring=A855F7"/>
+  <img src="https://streak-stats.demolab.com?user=sokoo69&theme=tokyonight&hide_border=true"/>
 </div>
 ---
 
